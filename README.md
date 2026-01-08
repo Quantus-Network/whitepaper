@@ -6,7 +6,7 @@ This repository contains the official white paper for Quantus. We use this repos
 
 We follow semantic versioning for the white paper. Each major update or significant change results in a new versioned release.
 
-- **Current Version:** v0.2 (Work in Progress)
+- **Current Version:** v0.3
 - **Releases:** You can find all versioned PDF releases in the [Releases](../../releases) section.
 
 **Note:** Version v0.1 was an internal draft and is no longer available. Public versioning starts from v0.2.
