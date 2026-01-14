@@ -1,6 +1,10 @@
 
 # Changelog
 
+## v0.3.1
+### Tokenomics
+- **Pie Chart**: Fix wrong allocation for investors in the pie chart. 
+
 ## v0.3
 ### Architecture & Consensus
 - **Consensus Mechanism Redesign**: Replaced the RSA-factoring "Shortcut Mining" with a **Poseidon2** hash-based PoW to optimize for ZK-proof compatibility.
